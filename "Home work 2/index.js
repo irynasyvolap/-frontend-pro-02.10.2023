@@ -3,8 +3,8 @@
 let firstNumber;
 let secondNumber;
 
-firstNumber = prompt("Введіть перше число:");
-secondNumber = prompt("Введіть друге число:");
+firstNumber = Number(prompt("Введіть перше число:"));
+secondNumber = Number(prompt("Введіть друге число:"));
 
 let sum = firstNumber + secondNumber;
 let diff = firstNumber - secondNumber;
