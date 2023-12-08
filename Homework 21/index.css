@@ -1,0 +1,23 @@
+* {
+  background-color: black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  background-color: black;
+  color: white;
+}
+
+table,
+th,
+td {
+  border: 2px solid white;
+  background-color: #333;
+}
+
+th,
+td {
+  padding: 20px;
+  text-align: center;
+}
