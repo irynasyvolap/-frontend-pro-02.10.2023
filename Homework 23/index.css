@@ -1,0 +1,17 @@
+#smileyContainer {
+  text-align: center;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 420px;
+}
+
+.smiley {
+  cursor: pointer;
+  font-size: 48px;
+  margin: 0 5px;
+  }
+
+h1 {
+  text-align: center;
+  color: red;
+}
